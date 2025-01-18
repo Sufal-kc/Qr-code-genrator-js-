@@ -6,10 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "type": "module",
+  "author": "Sufal k.c.",
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "inquirer": "^12.3.1"
+    "inquirer": "^12.3.1",
+    "qr-image": "^3.2.0"
   }
 }
